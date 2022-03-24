@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShivSeth
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on any JavaScript Projects
+- 💞️ I’m looking to collaborate on any OpenSource JavaScript Projects
 - 📫 How to reach me : @email - shivam.prakash114@gmail.com
 
 <!---
